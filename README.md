@@ -1,4 +1,3 @@
-markdown
 # ConformalTriage: Verifiable Risk Control for Autonomous Pulmonary Nodule Sign-off
 
 This repository contains the complete, end-to-end Python codebase and reproduction pipeline for the study: **"Verifiable Risk Control for Autonomous Pulmonary Nodule Sign-off: Consensus-Definition Leakage, CT Protocol Shift, and Finite-Sample Certification"**. 
