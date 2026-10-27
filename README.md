@@ -1,4 +1,4 @@
-```markdown
+markdown
 # ConformalTriage: Verifiable Risk Control for Autonomous Pulmonary Nodule Sign-off
 
 This repository contains the complete, end-to-end Python codebase and reproduction pipeline for the study: **"Verifiable Risk Control for Autonomous Pulmonary Nodule Sign-off: Consensus-Definition Leakage, CT Protocol Shift, and Finite-Sample Certification"**. 
@@ -47,4 +47,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 For questions regarding the code or the statistical framework, please contact:
 **Yongjin Deng** (dengyj27@mail.sysu.edu.cn)
-```
